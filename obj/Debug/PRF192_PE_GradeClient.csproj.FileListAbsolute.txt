@@ -1,0 +1,76 @@
+D:\FPT\SE6-\Project\PRN292\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csprojAssemblyReference.cache
+D:\FPT\SE6-\Project\PRN292\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.Properties.Resources.resources
+D:\FPT\SE6-\Project\PRN292\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.Grade.resources
+D:\FPT\SE6-\Project\PRN292\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.GenerateResource.cache
+D:\FPT\SE6-\Project\PRN292\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.CoreCompileInputs.cache
+D:\FPT\SE6-\Project\PRN292\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.exe.config
+D:\FPT\SE6-\Project\PRN292\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.exe
+D:\FPT\SE6-\Project\PRN292\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.pdb
+D:\FPT\SE6-\Project\PRN292\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.exe
+D:\FPT\SE6-\Project\PRN292\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.pdb
+D:\FPT\SE6-\Project\PRN292\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.ShowDetail.resources
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\New folder\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.exe.config
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\New folder\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.exe
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\New folder\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.pdb
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\New folder\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.AssemblyReference.cache
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\New folder\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.Properties.Resources.resources
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\New folder\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.Grade.resources
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\New folder\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.ShowDetail.resources
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\New folder\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.GenerateResource.cache
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\New folder\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.CoreCompileInputs.cache
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\New folder\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.exe
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\New folder\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.pdb
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.exe.config
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.exe
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.pdb
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csprojAssemblyReference.cache
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.Properties.Resources.resources
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.Grade.resources
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.ShowDetail.resources
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.GenerateResource.cache
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.CoreCompileInputs.cache
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.exe
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.pdb
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\C#\ProjectC#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.CopyComplete
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.exe.config
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.exe
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.pdb
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\stdole.dll
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.AssemblyReference.cache
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.Properties.Resources.resources
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.Grade.resources
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.ShowDetail.resources
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.GenerateResource.cache
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.CoreCompileInputs.cache
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.CopyComplete
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.exe
+D:\Summer 2021\.NET and C# PRN292\.Net and C# New\Project C#\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.pdb
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.exe.config
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.exe
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.pdb
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csprojAssemblyReference.cache
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.Properties.Resources.resources
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.Grade.resources
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.ShowDetail.resources
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.GenerateResource.cache
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.CoreCompileInputs.cache
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.CopyComplete
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.exe
+C:\Users\DuyNQ\Desktop\All\Project2\PRF192_PE_GradeClient\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.pdb
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.exe.config
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.exe
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\PRF192_PE_GradeClient.pdb
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csprojAssemblyReference.cache
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.Properties.Resources.resources
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.Grade.resources
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.ShowDetail.resources
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.GenerateResource.cache
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.CoreCompileInputs.cache
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.csproj.CopyComplete
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.exe
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.pdb
+C:\Users\DuyNQ\Desktop\All\Project(99.1%)\PRF192_PE_GradeClient\PRF192_PE_GradeClient\obj\Debug\PRF192_PE_GradeClient.view.GradeDetails.resources
